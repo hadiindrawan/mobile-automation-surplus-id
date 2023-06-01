@@ -24,11 +24,13 @@ Install dependencies
   npm install
 ```
 
-Start the server
+Run test
 
 ```bash
   npm run wdio
 ```
+
+Note: Before run the test, ensure the appium server had been started
 
 ## Environment Variables
 
