@@ -1,0 +1,6 @@
+export const emailInputEl = 'id:textInputEditTextEmail'
+export const passwordInputEl = 'id:textInputEditTextPassword'
+export const btnSubmitLoginEl = 'id:appCompatButtonLogin'
+export const messageEl = 'id:snackbar_text'
+export const listUserEl = 'id:recyclerViewUsers'
+export const errorMsgInputEl = '//*/android.widget.LinearLayout/android.widget.TextView'

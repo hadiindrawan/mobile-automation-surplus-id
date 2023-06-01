@@ -1,0 +1,8 @@
+export const btnCreateAccEl = 'id:textViewLinkRegister'
+export const nameInputEl = 'id:textInputEditTextName'
+export const emailInputEl = 'id:textInputEditTextEmail'
+export const passwordInputEl = 'id:textInputEditTextPassword'
+export const confirmPasswordInputEl = 'id:textInputEditTextConfirmPassword'
+export const btnSubmitRegisterEl = 'id:appCompatButtonRegister'
+export const messageEl = 'id:snackbar_text'
+export const errorMsgInputEl = '//*/android.widget.LinearLayout/android.widget.TextView'
